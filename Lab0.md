@@ -1,4 +1,8 @@
-
+# Lab 0: Introduction to Diagram with PlantText
+## 1. Activity Diagram
 ![Diagram](https://www.planttext.com/api/plantuml/png/V90n3i8m34Ltdy8pGZq0B4K2YOa591QMq9fYqJWeDbISZO4ZSGNS0c8ZoXBd_V_pyxm_IhMGxH9R03snO4vA0CRM4iuguolR3USScXmYxiIfdWUOB8BXCXbkMHgT0aWomfOE1kXhSsH5tm5NFY-AOfYEVfRrsrAn2e9xQZowOpkwO3q4V731y5MuMvNQ96FK50cxb6iTOv3QDKgHXyk_CUJi9qGjdQ4_zy_sDlFCSl8-aVQPkcbVqm4e7V6_UG400F__0m00)
+## 2. Class Diagram
 ![Diagram](https://www.planttext.com/api/plantuml/png/D8un3i8m34Ltdy8Z3DoXg0mWiJD7ZLLPJMmKEtH0d8o18t45WWBRUyFN--_dQp0FnMjE0BQmO54Z06TFX6CAPcIuwuG73dC96G2cxYkbn3BZ7H3n98uNbgYhVVMc7F6iqxBPmkE_s5zRB9FupuzQMwxpg3bNQV619BP37m000F__0m00)
+## 3. Conditional 
 ![Diagram](https://www.planttext.com/api/plantuml/png/T92nJiDG34LtVyNDbWxyG39GeD1ET8d463searXD_D1xJgj-6mEVn2_WL20c94y-zqZN_lhuN6SBoUPf9Cf7KQIOcSZ4HiP3r8EOH0qZRd3tPd8Iks0ZeKzX0hcoo4JLOp3iek55jCyrIACnalI3LMW6oV09k6ujmeOVwEOcYHxTdVWryVbN7RdxrrmOaNGecpafzkevnZPCVBjQ0ehomdb5GDMskt3oIdYQjMsBegY9nymeDLxvirV-IpZqUpiljOre8kxvK2ydndUYjID_qZS0003__mC0)
+r
