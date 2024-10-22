@@ -4,4 +4,4 @@
 - Tầng giao diện người dùng
 - Tầng dịch vụ
 - Tầng dữ liệu 
-### 1.b vẽ biểu đồ package mô tả kiến trúc:
+### 1.b Vẽ biểu đồ package mô tả kiến trúc:
