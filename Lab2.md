@@ -1,1 +1,1 @@
-# Lab2: Phân tích ca sử dụng,
+# Lab2: PHÂN TÍCH CƠ CHẾ, KIẾN TRÚC, CA SỬ DỤNG
